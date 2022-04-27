@@ -1,0 +1,120 @@
+C:\Users\elgen\source\repos\Template.BL\bin\Debug\net5.0\Template.BL.deps.json
+C:\Users\elgen\source\repos\Template.BL\bin\Debug\net5.0\Template.BL.dll
+C:\Users\elgen\source\repos\Template.BL\bin\Debug\net5.0\ref\Template.BL.dll
+C:\Users\elgen\source\repos\Template.BL\bin\Debug\net5.0\Template.BL.pdb
+C:\Users\elgen\source\repos\Template.BL\bin\Debug\net5.0\Tamplate.DAL.dll
+C:\Users\elgen\source\repos\Template.BL\bin\Debug\net5.0\Tamplate.DAL.pdb
+C:\Users\elgen\source\repos\Template.BL\obj\Debug\net5.0\Template.BL.csprojAssemblyReference.cache
+C:\Users\elgen\source\repos\Template.BL\obj\Debug\net5.0\Template.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elgen\source\repos\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfoInputs.cache
+C:\Users\elgen\source\repos\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfo.cs
+C:\Users\elgen\source\repos\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CoreCompileInputs.cache
+C:\Users\elgen\source\repos\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CopyComplete
+C:\Users\elgen\source\repos\Template.BL\obj\Debug\net5.0\Template.BL.dll
+C:\Users\elgen\source\repos\Template.BL\obj\Debug\net5.0\ref\Template.BL.dll
+C:\Users\elgen\source\repos\Template.BL\obj\Debug\net5.0\Template.BL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.deps.json
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\bin\Debug\net5.0\ref\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\obj\Debug\net5.0\ref\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session2_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.pdb
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.AssemblyReference.cache
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfoInputs.cache
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfo.cs
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CoreCompileInputs.cache
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.dll
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\obj\Debug\net5.0\ref\Template.BL.dll
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.pdb
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.deps.json
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.dll
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\bin\Debug\net5.0\ref\Template.BL.dll
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.pdb
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.dll
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.pdb
+C:\Users\elgen\Desktop\Session3_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\obj\Debug\net5.0\ref\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.deps.json
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\bin\Debug\net5.0\ref\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session4_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.deps.json
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\bin\Debug\net5.0\ref\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\obj\Debug\net5.0\ref\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session5_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.deps.json
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\bin\Debug\net5.0\ref\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\obj\Debug\net5.0\ref\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session6_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.deps.json
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\bin\Debug\net5.0\ref\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\bin\Debug\net5.0\Template.BL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.pdb
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.AssemblyReference.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfoInputs.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfo.cs
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CopyComplete
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\obj\Debug\net5.0\ref\Template.BL.dll
+D:\Rounds\Sharp\R7\BackEnd\Asp.Net Core\Session7_Core\App\Template.BL\obj\Debug\net5.0\Template.BL.pdb
+C:\Users\elgen\Desktop\App\Template.BL\bin\Debug\net5.0\Template.BL.deps.json
+C:\Users\elgen\Desktop\App\Template.BL\bin\Debug\net5.0\Template.BL.dll
+C:\Users\elgen\Desktop\App\Template.BL\bin\Debug\net5.0\ref\Template.BL.dll
+C:\Users\elgen\Desktop\App\Template.BL\bin\Debug\net5.0\Template.BL.pdb
+C:\Users\elgen\Desktop\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.dll
+C:\Users\elgen\Desktop\App\Template.BL\bin\Debug\net5.0\Tamplate.DAL.pdb
+C:\Users\elgen\Desktop\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.AssemblyReference.cache
+C:\Users\elgen\Desktop\App\Template.BL\obj\Debug\net5.0\Template.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elgen\Desktop\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfoInputs.cache
+C:\Users\elgen\Desktop\App\Template.BL\obj\Debug\net5.0\Template.BL.AssemblyInfo.cs
+C:\Users\elgen\Desktop\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CoreCompileInputs.cache
+C:\Users\elgen\Desktop\App\Template.BL\obj\Debug\net5.0\Template.BL.csproj.CopyComplete
+C:\Users\elgen\Desktop\App\Template.BL\obj\Debug\net5.0\Template.BL.dll
+C:\Users\elgen\Desktop\App\Template.BL\obj\Debug\net5.0\ref\Template.BL.dll
+C:\Users\elgen\Desktop\App\Template.BL\obj\Debug\net5.0\Template.BL.pdb
